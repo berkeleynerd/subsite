@@ -1,0 +1,5 @@
+baseURL = 'https://slashgeek.org/subsite'
+languageCode = 'en-us'
+title = 'a hugo sub-site'
+theme = 'ananke'
+publishDir = 'docs'
